@@ -1,0 +1,33 @@
+.navbar-con {
+  display: flex;
+  justify-content: space-between;
+}
+
+.app-logo-con {
+  display: flex;
+  align-items: center;
+}
+
+.app-logo {
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}
+
+.logo-text {
+  font-weight: 600;
+}
+
+.sections {
+  list-style: none;
+  padding-left: 0px;
+  margin-left: 0px;
+  display: flex;
+}
+
+.dec {
+  text-decoration: none;
+  margin-right: 10px;
+  color: #12022f;
+  font-weight: 500;
+}

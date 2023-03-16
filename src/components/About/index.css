@@ -1,0 +1,20 @@
+.about-head {
+  color: #551e53;
+  text-align: center;
+  font-size: 50px;
+}
+
+.about-icon {
+  width: 250px;
+}
+
+.about-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.about-desc {
+  color: #555555;
+  font-size: 20px;
+}

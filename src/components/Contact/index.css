@@ -1,0 +1,15 @@
+.contact-head {
+  color: #551e53;
+  text-align: center;
+  font-size: 50px;
+}
+
+.contact-icon {
+  width: 250px;
+}
+
+.contact-con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
